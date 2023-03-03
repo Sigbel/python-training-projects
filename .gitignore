@@ -4,3 +4,7 @@ Pipfile.lock
 
 # Cache Files
 *__pycache__
+
+# Load Files
+training_projects.pyproject
+training_projects.pyproject.user
