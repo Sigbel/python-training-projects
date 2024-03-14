@@ -1,5 +1,7 @@
 """
-Classe carro: Implemente uma classe chamada Carro com as seguintes propriedades:
+Exercício 11 - Classe:  Carro
+
+Classe Carro: Implemente uma classe chamada Carro com as seguintes propriedades:
 
     a. Um veículo tem um certo consumo de combustível (medidos em km / litro) e uma certa quantidade de combustível no 
        tanque.

@@ -1,4 +1,6 @@
 """
+Exercício 31 - Lojas Tabajara
+
 O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e agora possui uma loja 
 de conveniências. Faça um programa que implemente uma caixa registradora rudimentar. O programa 
 deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor 

@@ -1,4 +1,6 @@
 """
+Exercício 40 - Dados de Trânsito
+
 Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de 
 trânsito. Foram obtidos os seguintes dados:
 

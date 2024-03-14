@@ -1,4 +1,6 @@
 """
+Exercício 22 - Suporte Informática
+
 Sua organização acaba de contratar um estagiário para trabalhar no Suporte de Informática, com a intenção de fazer 
 um levantamento nas sucatas encontradas nesta área. A primeira tarefa dele é testar todos os cerca de 200 mouses 
 que se encontram lá, testando e anotando o estado de cada um deles, para verificar o que se pode aproveitar deles.

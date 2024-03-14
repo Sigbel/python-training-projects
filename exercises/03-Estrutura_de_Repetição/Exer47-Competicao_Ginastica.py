@@ -1,4 +1,6 @@
 """
+Exercício 47 - Competição Ginástica
+
 Em uma competição de ginástica, cada atleta recebe votos de sete jurados. A melhor e a pior nota 
 são eliminadas. A sua nota fica sendo a média dos votos restantes. Você deve fazer um programa que 
 receba o nome do ginasta e as notas dos sete jurados alcançadas pelo atleta em sua apresentação e 

@@ -1,4 +1,6 @@
 """
+Exercício 18 - Emissora de Tv
+
 Uma grande emissora de televisão quer fazer uma enquete entre os seus telespectadores para saber qual o melhor 
 jogador após cada jogo. Para isto, faz-se necessário o desenvolvimento de um programa, que será utilizado pelas 
 telefonistas, para a computação dos votos. Sua equipe foi contratada para desenvolver este programa, utilizando a 

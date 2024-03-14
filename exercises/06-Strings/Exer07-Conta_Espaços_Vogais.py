@@ -1,4 +1,6 @@
 """
+Exercício 7 - Conta Espaço de Vogais
+
 Conta espaços e vogais. Dado uma string com uma frase informada pelo usuário (incluindo espaços em branco), conte:
 
 quantos espaços em branco existem na frase.

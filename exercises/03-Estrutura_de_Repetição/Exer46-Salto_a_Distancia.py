@@ -1,4 +1,6 @@
 """
+Exercício 46 - Salto a Distância
+
 Em uma competição de salto em distância cada atleta tem direito a cinco saltos. No final da série 
 de saltos de cada atleta, o melhor e o pior resultados são eliminados. O seu resultado fica sendo 
 a média dos três valores restantes. Você deve fazer um programa que receba o nome e as cinco 

@@ -1,4 +1,6 @@
 """
+Exercício 43 - Cardápio da Lanchonete
+
 O cardápio de uma lanchonete é o seguinte:
 
 Especificação   Código  Preço

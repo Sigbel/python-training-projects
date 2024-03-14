@@ -1,4 +1,6 @@
 """
+Exercício 19 - Maior e Menor Soma (2)
+
 Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
 """
 

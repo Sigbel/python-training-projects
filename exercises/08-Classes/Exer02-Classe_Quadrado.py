@@ -1,4 +1,6 @@
 """
+Exercício 2 - Classe: Quadrado
+
 Classe Quadrado: Crie uma classe que modele um quadrado:
 
     a. Atributos: Tamanho do lado

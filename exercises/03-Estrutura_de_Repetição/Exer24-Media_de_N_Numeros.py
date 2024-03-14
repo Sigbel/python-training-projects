@@ -1,4 +1,6 @@
 """
+Exercício 24 - Media de N Números
+
 Faça um programa que calcule o mostre a média aritmética de N notas.
 """
 

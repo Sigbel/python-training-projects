@@ -1,4 +1,6 @@
 """
+Exercício  11 - Intervalo Selecionado (2)
+
 Altere o programa anterior para mostrar no final a soma dos números.
 """
 

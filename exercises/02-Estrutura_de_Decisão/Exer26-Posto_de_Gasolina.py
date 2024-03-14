@@ -1,4 +1,6 @@
 """
+Exercício 26 - Posto de Gasolina
+
 Um posto está vendendo combustíveis com a seguinte tabela de descontos:
 
 * Álcool:

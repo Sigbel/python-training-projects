@@ -1,5 +1,7 @@
 """
-Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+Exercício 6 - Raio do Círculo
+
+Faça um programa que peça o raio de um círculo, calcule e mostre sua área.
 """
 
 raio = float(input("Digite o raio do círculo: "))

@@ -1,4 +1,6 @@
 """
+Exercício 38 - Aumento de Salário
+
 Um funcionário de uma empresa recebe aumento salarial anualmente: Sabe-se que:
 
 A. Esse funcionário foi contratado em 1995, com salário inicial de R$ 1.000,00;

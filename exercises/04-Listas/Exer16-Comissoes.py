@@ -1,4 +1,6 @@
 """
+Exercício 16 - Comissões
+
 Utilize uma lista para resolver o problema a seguir. Uma empresa paga seus vendedores com base em comissões. 
 O vendedor recebe $200 por semana mais 9 por cento de suas vendas brutas daquela semana. Por exemplo, um vendedor 
 que teve vendas brutas de $3000 em uma semana recebe $200 mais 9 por cento de $3000, ou seja, um total de $470. 

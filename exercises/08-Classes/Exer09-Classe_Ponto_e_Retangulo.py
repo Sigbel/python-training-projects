@@ -1,5 +1,7 @@
 """
-Classe Ponto e Retangulo: Faça um programa completo utilizando funções e classes que:
+Exercício 9 - Classe: Ponto e Retângulo
+
+Classe Ponto e Retângulo: Faça um programa completo utilizando funções e classes que:
 
     a. Possua uma classe chamada Ponto, com os atributos x e y. Ø
     b. Possua uma classe chamada Retangulo, com os atributos largura e altura. Ø

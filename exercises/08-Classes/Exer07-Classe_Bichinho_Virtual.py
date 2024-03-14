@@ -1,4 +1,6 @@
 """
+Exercício 7 - Classe: Bichinho Virtual
+
 Classe Bichinho Virtual: Crie uma classe que modele um Tamagushi (Bichinho Eletrônico):
 
     a. Atributos: Nome, Fome, Saúde e Idade 

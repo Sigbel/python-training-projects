@@ -1,4 +1,6 @@
 """
+Exercício 29 - Loja Quase Dois
+
 O Sr. Manoel Joaquim possui uma grande loja de artigos de R$ 1,99, com cerca de 10 caixas. Para 
 agilizar o cálculo de quanto cada cliente deve pagar ele desenvolveu um tabela que contém o número 
 de itens que o cliente comprou e ao lado o valor da conta. Desta forma a atendente do caixa precisa 

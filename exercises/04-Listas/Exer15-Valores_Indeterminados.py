@@ -1,4 +1,6 @@
 """
+Exercício 15 - Valores Indeterminados
+
 Faça um programa que leia um número indeterminado de valores, correspondentes a notas, encerrando a entrada de dados 
 quando for informado um valor igual a -1 (que não deve ser armazenado). Após esta entrada de dados, faça:
 

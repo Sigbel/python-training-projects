@@ -1,4 +1,6 @@
 """
+Exercício 3 - Validação de Informações
+
 Faça um programa que leia e valide as seguintes informações:
 
 Nome: maior que 3 caracteres;

@@ -1,4 +1,6 @@
 """
+Exercício 4 - Classe: Pessoa
+
 Classe Pessoa: Crie uma classe que modele uma pessoa:
 
     a. Atributos: nome, idade, peso e altura

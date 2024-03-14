@@ -1,4 +1,6 @@
 """
+Exercício 1 - Classe: Bola
+
 Classe Bola: Crie uma classe que modele uma bola:
 
     a. Atributos: Cor, circunferência, material
