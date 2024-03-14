@@ -32,7 +32,7 @@
 - <a href="#status">Status do Projeto</a>
 - <a href="#contato">Contato</a>
 
-## Tecnologias
+<h2 id="observacoes" style="display: block; border-bottom: 1px solid gray">Tecnologias</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
